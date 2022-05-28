@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="id_label">ID:</string>
+    <string name="name_label">Name:</string>
+    <string name="sur_label">Surname:</string>
+    <string name="father_label">Father Name:</string>
+    <string name="national_label">National ID:</string>
+    <string name="birth_label">Birth Date:</string>
+    <string name="gender_label">Gender:</string>
+    <string name="students_list">List of all students:</string>
+    <string name="edit_students">Edit</string>
+    <string name="confirm">confirm</string>
+    <string name="edit_student">Edit existing student:</string>
+    <string name="delete">delete</string>
+    <string name="add">Add</string>
+    <string name="add_student">Add new student:</string>
+    <string name="weather_icon">weather icon</string>
+    <string name="weather">Weather</string>
+    <string name="no_weather_data">no weather data</string>
+    <string name="switch_to_sqli">Switch to SQLi</string>
+    <string name="switch_to_firebase">Switch to Firebase</string>
+    <string name="city">City</string>
+    <string name="temp">temp: %1$.2g°C</string>
+    <string name="humidity">humidity: %1$.2g%%</string>
+</resources>
